@@ -1,0 +1,143 @@
+{
+  "data": {
+    "commandline": "IkM6XFByb2dyYW0gRmlsZXNcVW5pdHlcSHViXEVkaXRvclwyMDIxLjMuOGYxXEVkaXRvclxEYXRhXE5ldENvcmVSdW50aW1lXGRvdG5ldC5leGUiICBleGVjICJDOi9Qcm9ncmFtIEZpbGVzL1VuaXR5L0h1Yi9FZGl0b3IvMjAyMS4zLjhmMS9FZGl0b3IvRGF0YS9Eb3ROZXRTZGtSb3NseW4vY3NjLmRsbCIgL25vc3RkbGliIC9ub2NvbmZpZyAvc2hhcmVkICJATGlicmFyeS9CZWUvYXJ0aWZhY3RzLzE5MDBiMGFFLmRhZy9Bc3NlbWJseS1DU2hhcnAucnNwIg==",
+    "file": "DOTNET.EXE",
+    "handles": {
+      "handleCount": 0
+    },
+    "io": {
+      "otherCount": 1410,
+      "otherTransfer": 2856,
+      "readCount": 50,
+      "readTransfer": 139484,
+      "writeCount": 4,
+      "writeTransfer": 439
+    },
+    "isValidPath": true,
+    "path": "C:\\PROGRAM FILES\\UNITY\\HUB\\EDITOR\\2021.3.8F1\\EDITOR\\DATA\\NETCORERUNTIME\\DOTNET.EXE",
+    "pid": 26020,
+    "ppid": 25964,
+    "processOwner": {
+      "user": "Chandu\\chand",
+      "userInfo": {
+        "domain": "Chandu",
+        "id": "S-1-5-21-2416268889-2721554560-1142047083-1001",
+        "name": "chand"
+      }
+    },
+    "ram": {
+      "peak": 25366528,
+      "pfs": 6628,
+      "used": 40960
+    },
+    "rppid": 25964,
+    "sid": 1,
+    "times": {
+      "creationTime": 1690183675,
+      "kernel": 0,
+      "user": 0
+    },
+    "vm": {
+      "private": {
+        "peak": 87527424,
+        "used": 86016
+      }
+    },
+    "parent": {
+      "commandline": "Y21kLmV4ZSAvYyAiIkM6XFByb2dyYW0gRmlsZXNcVW5pdHlcSHViXEVkaXRvclwyMDIxLjMuOGYxXEVkaXRvclxEYXRhXE5ldENvcmVSdW50aW1lXGRvdG5ldC5leGUiIGV4ZWMgIkM6L1Byb2dyYW0gRmlsZXMvVW5pdHkvSHViL0VkaXRvci8yMDIxLjMuOGYxL0VkaXRvci9EYXRhL0RvdE5ldFNka1Jvc2x5bi9jc2MuZGxsIiAvbm9zdGRsaWIgL25vY29uZmlnIC9zaGFyZWQgIkBMaWJyYXJ5L0JlZS9hcnRpZmFjdHMvMTkwMGIwYUUuZGFnL0Fzc2VtYmx5LUNTaGFycC5yc3AiIg==",
+      "file": "CMD.EXE",
+      "handles": {
+        "handleCount": 0
+      },
+      "io": {
+        "otherCount": 60,
+        "otherTransfer": 1998,
+        "readCount": 0,
+        "readTransfer": 0,
+        "writeCount": 0,
+        "writeTransfer": 0
+      },
+      "isValidPath": true,
+      "path": "C:\\WINDOWS\\SYSTEM32\\CMD.EXE",
+      "pid": 25964,
+      "ppid": 1364,
+      "processOwner": {
+        "user": "Chandu\\chand",
+        "userInfo": {
+          "domain": "Chandu",
+          "id": "S-1-5-21-2416268889-2721554560-1142047083-1001",
+          "name": "chand"
+        }
+      },
+      "ram": {
+        "peak": 4136960,
+        "pfs": 1156,
+        "used": 32768
+      },
+      "rppid": 1364,
+      "sid": 1,
+      "times": {
+        "creationTime": 1690183675,
+        "kernel": 0,
+        "user": 0
+      },
+      "vm": {
+        "private": {
+          "peak": 3162112,
+          "used": 77824
+        }
+      }
+    },
+    "fileInfo": {
+      "response": {
+        "file": "DOTNET.EXE",
+        "fingerprint": {
+          "type": 2,
+          "value": "c23ca38118d6d08cc13a094319b5984e"
+        },
+        "path": "C:\\PROGRAM FILES\\UNITY\\HUB\\EDITOR\\2021.3.8F1\\EDITOR\\DATA\\NETCORERUNTIME\\DOTNET.EXE",
+        "security": {
+          "owner": {
+            "user": "BUILTIN\\Administrators",
+            "userInfo": {
+              "domain": "BUILTIN",
+              "id": "S-1-5-32-544",
+              "name": "Administrators"
+            }
+          }
+        },
+        "signature": {
+          "status": "Trusted"
+        },
+        "size": {
+          "size": 135560
+        },
+        "times": {
+          "created": 1611374348,
+          "lastAccess": 1690183088,
+          "lastWrite": 1611374348
+        },
+        "versionDetails": {
+          "company": {
+            "copyright": "© Microsoft Corporation. All rights reserved.",
+            "name": "Microsoft Corporation"
+          },
+          "file": {
+            "description": ".NET Host",
+            "internalName": ".NET Host",
+            "originalName": ".NET Host",
+            "version": "5,0,321,7212 @Commit: c636bbdc8a2d393d07c0e9407a4f8923ba1a21cb"
+          },
+          "product": {
+            "name": "Microsoft® .NET Framework",
+            "version": "5.0.3 @Commit: c636bbdc8a2d393d07c0e9407a4f8923ba1a21cb"
+          }
+        }
+      }
+    }
+  },
+  "status": {
+    "type": "success",
+    "message": "success"
+  }
+}

@@ -1,3 +1,5 @@
+https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/win32-process#syntax
+
 {
   string   CreationClassName;
   string   Caption;

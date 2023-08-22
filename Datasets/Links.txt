@@ -1,0 +1,32 @@
+Kaggle PE Files:
+
+https://www.kaggle.com/datasets/amauricio/pe-files-malwares?select=dataset_malwares.csv
+
+DikeDataset:
+
+https://github.com/iosifache/DikeDataset
+
+IoT-23 Dataset:
+
+https://www.stratosphereips.org/datasets-iot23
+
+Binary-PE from various websites:
+
+https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642
+
+SoReL-20M:
+
+https://arxiv.org/pdf/2012.07634.pdf
+
+BODMAS Dataset:
+
+https://whyisyoung.github.io/BODMAS/
+
+EMBER:
+
+https://github.com/elastic/ember
+
+
+
+
+
